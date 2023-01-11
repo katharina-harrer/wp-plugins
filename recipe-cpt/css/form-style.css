@@ -1,0 +1,39 @@
+#recipe_form {
+    padding: 3em; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #e3e3e3;
+} 
+
+#form-heading {
+    text-align: center;
+}
+
+.submitBtn {
+    text-transform: uppercase;
+}
+
+.input-field {
+    width: 100%
+}
+
+.form-label-span {
+    color: red;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.error {
+    padding: 5px 9px;
+    border: 1px solid red;
+    color: red;
+    border-radius: 3px;
+}
+
+.success {
+    padding: 5px 9px;
+    border: 1px solid green;
+    color: green;
+    border-radius: 3px;
+}

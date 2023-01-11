@@ -1,0 +1,39 @@
+.metabox-content {
+    padding: 3em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.recipe-heading {
+    padding: 1em;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+/* responsive image: image gets smaller if it has to, but never gets larger */
+#recipe-thumbnail {
+    max-width: 100%; 
+    height: auto;
+}
+
+/* for image and general informations */
+#img-container {
+    display: flex;
+}
+
+.img-container-div {
+    margin-right: 2em;
+}
+
+.general-container-div {
+    width: 100%;
+}
+
+/* for ingredients and preparation */
+#text-container {
+    display: flex;
+    justify-content: space-between; 
+}
+
+.text-container-div {
+    width: 48%;
+    height: 48%;
+}

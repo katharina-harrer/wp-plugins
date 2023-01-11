@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: grcms_tipps_plugin\n"
+"POT-Creation-Date: 2021-06-21 16:17+0200\n"
+"PO-Revision-Date: 2021-06-21 16:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: tipps.php\n"
+"X-Poedit-SearchPath-1: php/config.php\n"
+"X-Poedit-SearchPath-2: php/add_post_widget.php\n"
+"X-Poedit-SearchPath-3: php/export.php\n"
+"X-Poedit-SearchPath-4: php/customizer.php\n"
+
+#: php/add_post_widget.php:53
+msgid "add tips for sustainable living"
+msgstr "Hinzufügen von Nachhaltigkeitstipps"
+
+#: php/add_post_widget.php:56 tipps.php:45 tipps.php:46 tipps.php:47
+msgid "Add a Tip"
+msgstr "Tipp hinzufügen"
+
+#: php/add_post_widget.php:63
+msgid "Add sustainability tips:"
+msgstr "Füge Nachhaltigkeitstipps hinzu:"
+
+#: php/add_post_widget.php:90
+msgid "Log in to add a tip!"
+msgstr "Logge dich ein um einen Tipp hinzuzufügen!"
+
+#: php/add_post_widget.php:111
+msgid "Title"
+msgstr "Titel"
+
+#: php/add_post_widget.php:112
+msgid "e.g. tips for shopping"
+msgstr "z.B. Tipps für den Einkauf"
+
+#: php/add_post_widget.php:115 tipps.php:78
+msgid "Subject area"
+msgstr "Themenbereich"
+
+#: php/add_post_widget.php:118 tipps.php:43 tipps.php:79
+msgid "Tip"
+msgstr "Tipp"
+
+#: php/add_post_widget.php:119
+msgid "e.g. Shopping with a Cloth bag"
+msgstr "z.B. Einkaufen mit einem Stoffbeutel"
+
+#: php/add_post_widget.php:121
+msgid "Submit"
+msgstr "Einreichen"
+
+#: php/add_post_widget.php:138
+msgid "All subject areas"
+msgstr "Alle Themenbereiche"
+
+#: php/config.php:14
+msgid "To configure the tips admin rights are required"
+msgstr "Zum Konfigurieren der Tipps sind Administratorrechte erforderlich"
+
+#: php/config.php:32 php/config.php:82 php/config.php:83
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: php/config.php:41
+msgid "Configuration for submitting tips"
+msgstr "Konfiguration zum Einreichen von Tipps"
+
+#: php/config.php:51
+msgid "Indicate whether the user has to be logged in to enter a tip"
+msgstr "Geben Sie an, ob der Benutzer zum Einreichen eines Tipps eingeloggt sein muss"
+
+#: php/config.php:58
+msgid "Yes, the user must be logged in"
+msgstr "Ja, der Nutzer muss eingeloggt sein"
+
+#: php/config.php:59
+msgid "No, the user does not have to be logged in"
+msgstr "Nein, der Nutzer muss nicht eingeloggt sein"
+
+#: php/customizer.php:13
+msgid "Settings for Tips"
+msgstr "Einstellungen für Tipps"
+
+#: php/customizer.php:20
+msgid "Color for required Textareas"
+msgstr "Farbe für erforderliche Textfelder"
+
+#: php/customizer.php:33
+msgid "Empty Space between Lines"
+msgstr "Leerraum zwischen den Zeilen"
+
+#: php/export.php:22 php/export.php:23
+msgid "Export"
+msgstr "Export"
+
+#: php/export.php:36
+msgid "Tips &rsaquo; Export"
+msgstr "Tipps &rsaquo; Export"
+
+#: php/export.php:39
+msgid "Export JSON"
+msgstr "JSON Exportieren"
+
+#: php/export.php:73
+msgid "Copy"
+msgstr "Kopieren"
+
+#: tipps.php:42 tipps.php:44
+msgid "Tips"
+msgstr "Tipps"
+
+#: tipps.php:48
+msgid "Edit Tip"
+msgstr "Tipp bearbeiten"
+
+#: tipps.php:49
+msgid "Create Tip"
+msgstr "Neuen Tipp erstellen"
+
+#: tipps.php:50
+msgid "Show Tip"
+msgstr "Tipp anzeigen"
+
+#: tipps.php:51
+msgid "All Tips"
+msgstr "Alle Tipps"
+
+#: tipps.php:52
+msgid "Find a Tip"
+msgstr "Finde einen Tipp"
+
+#: tipps.php:53
+msgid "No Tips found"
+msgstr "Es wurden keine Tipps gefunden"
+
+#: tipps.php:54
+msgid "No Tip in Trash"
+msgstr "Es wurden keine Tipps im Papierkorb gefunden"
+
+#: tipps.php:80
+msgid "Search Tip subject areas"
+msgstr "Suche Themenbereich"
+
+#: tipps.php:81
+msgid "All Tip subject areas"
+msgstr "Alle Themenbereiche"
+
+#: tipps.php:82
+msgid "Parent Tip subject area"
+msgstr "Parent Themenbereich"
+
+#: tipps.php:83
+msgid "Parent Tip subject area:"
+msgstr "Parent Themenbereich:"
+
+#: tipps.php:84
+msgid "Edit Tip subject area"
+msgstr "Bearbeite Themenbereich"
+
+#: tipps.php:85
+msgid "Update Tip subject areas"
+msgstr "Aktualisiere Themenbereich"
+
+#: tipps.php:86
+msgid "Create a new Tip Tip subject areas"
+msgstr "Neuen Themenbereich für Tipps hinzufügen"
+
+#: tipps.php:87
+msgid "New Tip Name"
+msgstr "Neuer Tippname"
+
+#: tipps.php:88
+msgid "Subject areas"
+msgstr "Themenbereiche"
+
+#: tipps.php:101
+msgid "Consumption"
+msgstr "Konsum"
+
+#: tipps.php:101
+msgid "Energy"
+msgstr "Energie"
+
+#: tipps.php:102
+msgid "Health"
+msgstr "Gesundheit"
+
+#: tipps.php:102
+msgid "Climate protection"
+msgstr "Klimaschutz"
+
+#~ msgid "subject areas"
+#~ msgstr "Themenbereiche"
+
+#~ msgid "Tip subject areas"
+#~ msgstr "Themenbereiche für Tipps"
+
+#~ msgid "Category"
+#~ msgstr "Kategorie"
+
+#~ msgid "All Categories"
+#~ msgstr "Alle Kategorien"
+
+#~ msgid "Tip Categories"
+#~ msgstr "Tippkategorien"
+
+#~ msgid "Titel"
+#~ msgstr "T"
+
+#, fuzzy
+#~| msgid "All Tip Categories"
+#~ msgid "Alle Kategorien"
+#~ msgstr "Alle Tippskategorien"

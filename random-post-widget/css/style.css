@@ -1,0 +1,10 @@
+/* backend: make input[type=number] smaller */
+#number {
+    width: 60px;
+}
+
+/* frontend: remove bullets from post list */
+.unordered-list {
+    list-style-type: none;
+    padding: 0;
+}

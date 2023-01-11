@@ -1,0 +1,489 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: recipe-cpt\n"
+"POT-Creation-Date: 2021-06-24 23:29+0200\n"
+"PO-Revision-Date: 2021-06-24 23:36+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_html_e;esc_attr__;_x;esc_html__\n"
+"X-Poedit-SearchPath-0: recipe-cpt.php\n"
+"X-Poedit-SearchPath-1: uninstall.php\n"
+"X-Poedit-SearchPath-2: php/form.php\n"
+"X-Poedit-SearchPath-3: php/hooks.php\n"
+"X-Poedit-SearchPath-4: php/meta-boxes.php\n"
+"X-Poedit-SearchPath-5: php/settings.php\n"
+"X-Poedit-SearchPath-6: php/customizer.php\n"
+"X-Poedit-SearchPath-7: templates/single-cpt_recipe_form.php\n"
+"X-Poedit-SearchPath-8: templates/parts/recipe-content.php\n"
+"X-Poedit-SearchPath-9: templates/parts/recipe-presentation.php\n"
+
+#: php/customizer.php:31
+msgid "Recipe Template Settings"
+msgstr "Rezept Template Einstellungen"
+
+#: php/customizer.php:48
+msgid "Title Transformation"
+msgstr "Titelumwandlung"
+
+#: php/customizer.php:50
+msgid "Using this option you can transform the recipename"
+msgstr "Mit dieser Option können Sie den Rezeptnamen umwandeln"
+
+#: php/customizer.php:53
+msgid "None"
+msgstr "-"
+
+#: php/customizer.php:54
+msgid "Capitalize"
+msgstr "Großschreibung"
+
+#: php/customizer.php:55
+msgid "Uppercase"
+msgstr " Versalschrift"
+
+#: php/customizer.php:56
+msgid "Lowercase"
+msgstr "Kleinschreibung"
+
+#: php/customizer.php:73
+msgid "Headline Color"
+msgstr "Überschriftsfarbe"
+
+#: php/customizer.php:91
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: php/form.php:52
+msgid "Log in to share a recipe with us!"
+msgstr "Melden Sie sich an, um ein Rezept mit uns teilen können!"
+
+#: php/form.php:64
+msgid "Recipe creation"
+msgstr "Rezepterstellung"
+
+#: php/form.php:65
+msgid "Hello "
+msgstr "Hallo "
+
+#: php/form.php:70 templates/parts/recipe-presentation.php:78
+#: templates/parts/recipe-presentation.php:111
+msgid "Recipe name"
+msgstr "Rezeptname"
+
+#: php/form.php:75
+msgid "e.g. Lamb's lettuce with balsamic vinaigrette"
+msgstr "z.B. Feldsalat mit Balsamico-Vinaigrette"
+
+#: php/form.php:77
+msgid "Please enter a recipe name."
+msgstr "Bitte geben Sie einen Rezeptnamen ein."
+
+#: php/form.php:81 php/meta-boxes.php:25
+#: templates/parts/recipe-presentation.php:90
+msgid "Additional information"
+msgstr "Zusätzliche Infos"
+
+#: php/form.php:83
+msgid "e.g. vegan, glutenfree or lactosefree"
+msgstr "z.B. vegan, glutenfrei oder laktosefrei"
+
+#: php/form.php:86 php/meta-boxes.php:31
+#: templates/parts/recipe-presentation.php:84
+#: templates/parts/recipe-presentation.php:115
+msgid "Difficulty level"
+msgstr "Schwierigkeitsgrad"
+
+#: php/form.php:89 php/meta-boxes.php:82
+msgid "Choose a difficulty level"
+msgstr "Wähle einen Schwierigkeitsgrad"
+
+#: php/form.php:90 php/meta-boxes.php:74 templates/parts/recipe-content.php:97
+#: templates/parts/recipe-presentation.php:42
+msgid "very simple"
+msgstr "sehr einfach"
+
+#: php/form.php:91 php/meta-boxes.php:75 templates/parts/recipe-content.php:98
+#: templates/parts/recipe-presentation.php:45
+#: templates/parts/recipe-presentation.php:116
+msgid "simple"
+msgstr "einfach"
+
+#: php/form.php:92 php/meta-boxes.php:76 templates/parts/recipe-content.php:99
+#: templates/parts/recipe-presentation.php:48
+#: templates/parts/recipe-presentation.php:117
+msgid "normal"
+msgstr "normal"
+
+#: php/form.php:93 php/meta-boxes.php:77 templates/parts/recipe-content.php:100
+#: templates/parts/recipe-presentation.php:51
+#: templates/parts/recipe-presentation.php:118
+msgid "difficult"
+msgstr "schwer"
+
+#: php/form.php:94 php/meta-boxes.php:78 templates/parts/recipe-content.php:101
+#: templates/parts/recipe-presentation.php:54
+msgid "very difficult"
+msgstr "sehr schwer"
+
+#: php/form.php:98 recipe-cpt.php:135
+#: templates/parts/recipe-presentation.php:79
+#: templates/parts/recipe-presentation.php:113
+msgid "Recipe Category"
+msgstr "Rezeptkategorie"
+
+#: php/form.php:102
+msgid "Select a suitable picture (maximum "
+msgstr "Wähle ein passendes Bild aus (maximal "
+
+#: php/form.php:106
+msgid "Please upload a photo."
+msgstr "Bitte laden Sie ein Foto hoch."
+
+#: php/form.php:110 php/meta-boxes.php:37
+#: templates/parts/recipe-presentation.php:80
+msgid "Portions"
+msgstr "Portionen"
+
+#: php/form.php:112
+msgid "The recipe is designed for"
+msgstr "Das Rezept ist ausgelegt für"
+
+#: php/form.php:114
+msgid "persons / portions."
+msgstr "Personen / Portionen."
+
+#: php/form.php:117 templates/parts/recipe-content.php:133
+#: templates/parts/recipe-presentation.php:97
+msgid "Ingredients and quantities"
+msgstr "Zutaten und Mengenangaben"
+
+#: php/form.php:122
+msgid "List the ingredients and quantities here!"
+msgstr "Liste hier die Zutaten und Mengenangaben auf!"
+
+#: php/form.php:123
+msgid "Please enter the ingredients."
+msgstr "Bitte geben Sie die Zutaten ein."
+
+#: php/form.php:127 php/meta-boxes.php:49
+#: templates/parts/recipe-content.php:148
+#: templates/parts/recipe-presentation.php:98
+msgid "Preparation"
+msgstr "Zubereitung"
+
+#: php/form.php:132
+msgid "Describe how to prepare your recipe!"
+msgstr "Beschreibe, wie man dein Rezept zubereitet!"
+
+#: php/form.php:133
+msgid "Please enter the preparation."
+msgstr "Bitte geben Sie an, wie man das Rezept zubereitet."
+
+#: php/form.php:138
+msgid "Submit recipe"
+msgstr "Rezept einreichen"
+
+#: php/form.php:157
+msgid "Choose a Category"
+msgstr "Wähle eine Kategorie"
+
+#: php/form.php:197
+msgid "Thanks! Your recipe has been saved."
+msgstr "Danke! Ihr Rezept wurde gespeichert."
+
+#: php/form.php:213
+msgid "An upload error may have occurred."
+msgstr "Möglicherweise trat ein Upload-Fehler auf."
+
+#: php/form.php:223
+msgid "You are only allowed to upload pictures in jpeg or png format."
+msgstr "Sie dürfen nur Bilder im jpeg oder png Format hochladen."
+
+#: php/form.php:227
+msgid "Your Image is "
+msgstr "Ihr Bild hat "
+
+#: php/form.php:228
+msgid " KiB! It cannot exceed "
+msgstr " KiB! Es darf keine "
+
+#: php/form.php:229
+msgid " KiB."
+msgstr " KiB überscheiten."
+
+#: php/meta-boxes.php:43
+msgid "Ingredients"
+msgstr "Zutaten"
+
+#: php/settings.php:26
+msgid "Recipe Settings"
+msgstr "Rezepteinstellungen"
+
+#: php/settings.php:27 php/settings.php:63
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: php/settings.php:39
+msgid "You are not authorized to adjust the options."
+msgstr "Du hast keine Berechtigung um die Optionen anzupassen."
+
+#: php/settings.php:44
+msgid "Recipes &rsaquo; Settings"
+msgstr "Rezepte &rsaquo; Einstellungen"
+
+#: php/settings.php:83
+msgid "Maximum upload size for recipe pictures in KiB"
+msgstr "Maximale Uploadgröße für Rezeptbilder in KiB"
+
+#: php/settings.php:92
+msgid "Uninstall Settings"
+msgstr "Deinstallationseinstellungen"
+
+#: php/settings.php:102
+msgid "Settings affecting the form and uninstallation of the Recipe Plugin"
+msgstr "Einstellungen zum Formular und zur Deinstallation des Rezept-Plugins"
+
+#: php/settings.php:111
+msgid "minimum: "
+msgstr "mindestens: "
+
+#: php/settings.php:112
+msgid "default: "
+msgstr "standard: "
+
+#: php/settings.php:119
+msgid ""
+"Select whether you really want to delete all posts, featured images, terms "
+"and the taxonomy of the Custom Post Type during the uninstallation process."
+msgstr ""
+"Alle Beiträge, Beitragsbilder, Terms und die Taxonomie des Custom Post Types "
+"sollen während des Deinstallationsvorgangs gelöscht werden."
+
+#: php/settings.php:120
+msgid "No, the data should not be deleted"
+msgstr "Nein, die Daten sollen nicht gelöscht werden"
+
+#: php/settings.php:121
+msgid "Yes, the data should be deleted"
+msgstr "Ja, die Daten sollen gelöscht werden"
+
+#: recipe-cpt.php:101 recipe-cpt.php:113
+msgid "Recipes"
+msgstr "Rezepte"
+
+#: recipe-cpt.php:102
+msgid "Recipe"
+msgstr "Rezept"
+
+#: recipe-cpt.php:103 recipe-cpt.php:104 recipe-cpt.php:106
+msgid "Add Recipe"
+msgstr "Rezept erstellen"
+
+#: recipe-cpt.php:105
+msgid "Edit Recipe"
+msgstr "Bearbeite das Rezept"
+
+#: recipe-cpt.php:107
+msgid "All Recipes"
+msgstr "Alle Rezepte"
+
+#: recipe-cpt.php:108
+msgid "Show Recipe"
+msgstr "Zeige das Rezept"
+
+#: recipe-cpt.php:109
+msgid "Search Recipes"
+msgstr "Suche Rezepte"
+
+#: recipe-cpt.php:110
+msgid "No Recipe found"
+msgstr "Kein Rezept vorhanden"
+
+#: recipe-cpt.php:111
+msgid "No Recipes found in trash "
+msgstr "Im Papierkorb ist kein Rezept vorhanden "
+
+#: recipe-cpt.php:112
+msgid "Parent Recipes:"
+msgstr "Parent Rezepte:"
+
+#: recipe-cpt.php:134 recipe-cpt.php:144
+msgid "Recipe Categories"
+msgstr "Rezeptkategorien"
+
+#: recipe-cpt.php:136
+msgid "Search Recipe Categories"
+msgstr "Rezeptkategorien durchsuchen"
+
+#: recipe-cpt.php:137
+msgid "All Recipe Categories"
+msgstr "Alle Rezeptkategorien"
+
+#: recipe-cpt.php:138
+msgid "Parent Recipe Category"
+msgstr "Parent Rezeptkategorie"
+
+#: recipe-cpt.php:139
+msgid "Parent Recipe Category:"
+msgstr "Parent Rezeptkategorie:"
+
+#: recipe-cpt.php:140
+msgid "Edit Recipe Category"
+msgstr "Bearbeite Rezeptkategorie"
+
+#: recipe-cpt.php:141
+msgid "Update Recipe Category"
+msgstr "Aktualisiere Rezeptkategorie"
+
+#: recipe-cpt.php:142
+msgid "Add New Recipe Category"
+msgstr "Erstelle eine neue Rezeptkategorie"
+
+#: recipe-cpt.php:143
+msgid "New Recipe Category"
+msgstr "Erstelle eine neue Rezeptkategorie"
+
+#: recipe-cpt.php:161
+msgid "Appetizer"
+msgstr "Vorspeise"
+
+#: recipe-cpt.php:162
+msgid "Main course"
+msgstr "Hauptspeise"
+
+#: recipe-cpt.php:163
+msgid "Dessert"
+msgstr "Süßspeise"
+
+#: templates/parts/recipe-content.php:76
+msgid "General information about the recipe"
+msgstr "Allgemeine Informationen zum Rezept"
+
+#: templates/parts/recipe-content.php:82
+msgid "Category: "
+msgstr "Rezeptkategorie: "
+
+#: templates/parts/recipe-content.php:88
+msgid "Portions: "
+msgstr "Portionen: "
+
+#: templates/parts/recipe-content.php:106
+msgid "Difficulty level: "
+msgstr "Schwierigkeitsgrad: "
+
+#: templates/parts/recipe-content.php:112
+msgid "Additional information: "
+msgstr "Zusätzliche Infos: "
+
+#: templates/parts/recipe-content.php:166
+msgid "Export"
+msgstr "Export"
+
+#: templates/parts/recipe-content.php:167
+msgid "print"
+msgstr "Drucken"
+
+#: templates/parts/recipe-presentation.php:112
+msgid "e.g. Beetroot-Carpaccio"
+msgstr "z.B. Rote Beete-Carpaccio"
+
+#: templates/parts/recipe-presentation.php:119
+msgid "search"
+msgstr "Suchen"
+
+#: templates/parts/recipe-presentation.php:238
+msgid "Choose a category"
+msgstr "Wähle eine Kategorie"
+
+#: templates/single-cpt_recipe_form.php:34
+msgid "Posted on "
+msgstr "Veröffentlicht am "
+
+#: templates/single-cpt_recipe_form.php:35
+msgid " by "
+msgstr " von "
+
+#~ msgid "SUBMIT RECIPE"
+#~ msgstr "REZEPT EINREICHEN"
+
+#~ msgid "Colors for Recipe Template"
+#~ msgstr "Farben des Rezepte Templates"
+
+#~ msgid ""
+#~ "All posts, featured images, terms and the taxonomy of the Custom Post "
+#~ "Type have been deleted."
+#~ msgstr ""
+#~ "Alle Beiträge, Beitragsbilder, Terms und die Taxonomie des Custom Post "
+#~ "Types wurden gelöscht."
+
+#~ msgid "Please fill out all required fields."
+#~ msgstr "Bitte füllen Sie alle erforderlichen Felder aus."
+
+#~ msgid "Delete Posts"
+#~ msgstr "Beiträge löschen"
+
+#~ msgid ""
+#~ "Select whether you really want to delete the Plugin during the "
+#~ "uninstallation process"
+#~ msgstr ""
+#~ "Wählen Sie aus, ob Sie das Plugin beim Deinstallationsvorgang wirklich "
+#~ "löschen möchten"
+
+#~ msgid ""
+#~ "To be able to uninstall the Recipe Plugin, you have to go to its settings "
+#~ "and select that you really want to delete the Plugin."
+#~ msgstr ""
+#~ "Um das Plugin deinstallieren zu können, müssen Sie zunächst in dessen "
+#~ "Einstellungen gehen und auswählen, dass Sie das Plugin wirklich löschen "
+#~ "möchten."
+
+#~ msgid "by "
+#~ msgstr "von "
+
+#~ msgid "Rezepterstellung"
+#~ msgstr "Rezepterstellung"
+
+#~ msgid "Share your recipe with us"
+#~ msgstr "Teile dein Rezept mit uns"
+
+#~ msgid "Settings &rsaquo; Recipes"
+#~ msgstr "Einstellungen &rsaquo; Rezepte"
+
+#, fuzzy
+#~| msgid "All Posts are deleted."
+#~ msgid "All Posts and Databaseentrys are deleted."
+#~ msgstr "Alle Beiträge wurden gelöscht."
+
+#~ msgid "Uninstall stopped for debugging purposes."
+#~ msgstr "Die Deinstallation wurde zu Debugging-Zwecken angehalten."
+
+#~ msgid "Ingredients and quantities: "
+#~ msgstr "Zutaten und Mengenangaben: "
+
+#~ msgid "Preparation: "
+#~ msgstr "Zubereitung: "
+
+#~ msgid "This recipe was published by "
+#~ msgstr "Veröffentlicht wurde dieses Rezept von "
+
+#~ msgid " on "
+#~ msgstr " am "
+
+#~ msgid "New Recipe Name"
+#~ msgstr "Neuer Rezeptname"
+
+#~ msgid "Informations"
+#~ msgstr "Informationen"
+
+#~ msgid "Zusätzliche Infos: "
+#~ msgstr "Zusätzliche Infos: "
+
+#~ msgid "Degree of Difficulty"
+#~ msgstr "Schwierigkeitsgrad"
