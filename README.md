@@ -7,8 +7,8 @@ Der in diesem Repository einsehbare Code wurde ausschließlich von mir programmi
 
 ## Übersicht
 
-Die erlernten Kompetenzen lassen sich wie folgt festhalten:
-+ **Plugin – Rezepte**
+Die Kompetenzen, die ich durch dieses Projekt erworben habe, lassen sich wie folgt zusammenfassen:
++ [**Plugin – Rezepte**](#rezepte-plugin)
     + Shortcode (Formular)
     + Frontend-Formular (Rezepterstellung)
     + User-generated content (Rezepte einreichen über Frontend-Formular)
@@ -20,8 +20,8 @@ Die erlernten Kompetenzen lassen sich wie folgt festhalten:
     + WPDB (Löschen von Taxonomie und Terms)
     + Backend-Erweiterung (Metaboxen für die Rezeptdaten, Plugin-Einstellungen, Export)
     + AJAX
-+ **Widget – Zufällige Beiträge**: Konfiguration 
-+ **Sonstiges**
++ [**Widget – Zufällige Beiträge**](#zufälliges-beitrags-widget): Konfiguration 
++ [**Sonstiges**](#json-export-im-tipps-plugin)
     + Content-Selection (WP_Query: Export-Funktion und Widget)
     + JSON als Export-Format (Backend Tipps Plugin)
 
